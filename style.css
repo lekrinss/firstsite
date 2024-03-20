@@ -1,12 +1,22 @@
 ul{
-    background: black;
+    background: rgb(255, 0, 255);
     list-style: square;
+    padding: 15px;
+    margin: 5px;
 }
 li {
-    background: white;
+    background: rgb(255, 238, 0);
+    padding: 10px;
+    margin: 5px;
 }
 
 body{
     background-size: cover;
     background-attachment: fixed;
+}
+h1{
+    color: black;
+    font-size: 64pt;
+    font-weight: bolder;
+    border: 5px solid;
 }
