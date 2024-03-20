@@ -76,8 +76,41 @@ li:hover{
 img{
     border-top-left-radius: 20px;
     border-bottom-right-radius: 20px;
+    height: 500px;
+    width: 500px;
 }
 
 .img2{
     border-radius: 0;
+}
+#container{
+    width: auto;
+}
+#header{
+    background: #85D6E5;
+    height: 150px;
+}
+#navigation{
+    background: #85D6E5;
+    height: 40px;
+}
+#content{
+    background: #85D6E5;
+    float: left;
+    width: 75%;
+    height: 250px;
+}
+#sidebar{
+    background: #85D6E5;
+    float: right;
+    width: 25%;
+    height: 250px;
+}
+#clear{
+    clear: both;
+}
+#footer{
+    margin-top: 4px;
+    background: #85D6E5;
+    height: 150px;
 }
