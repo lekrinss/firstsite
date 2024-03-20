@@ -25,7 +25,7 @@ h1{
     box-shadow: 10px 10px 10px #beb9b9;
 }
 h2{
-    color: rgb(7, 228, 154);
+    color: rgb(233, 160, 203);
     font-size: 54pt;
     font-weight: bolder;
     margin-left: 50px;
@@ -35,12 +35,38 @@ h2{
 
 }
 h3{
-    color: rgb(255, 0, 21);
+    color: rgb(233, 160, 203);
     font-size: 44pt;
     font-weight: bolder;
     margin-left: 100px;
-    border: 5px solid rgb(243, 14, 140);
+    border: 5px solid #beb9b9
     border-radius: 20px;
     box-shadow: 10px 10px 10px #beb9b9;
 }
-
+h4{
+    color: rgb(233, 160, 203);
+    font-size: 30pt;
+    font-weight: bolder;
+    margin-left: 150px;
+    border: 5px solid #beb9b9;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px #beb9b9;
+}
+h5{
+    color: rgb(233, 160, 203);
+    font-size: 24pt;
+    font-weight: bolder;
+    margin-left: 200px;
+    border: 5px solid #beb9b9;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px #beb9b9;
+}
+h6{
+    color: rgb(233, 160, 203);
+    font-size: 14pt;
+    font-weight: bolder;
+    margin-left: 250px;
+    border: 5px solid #beb9b9;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px #beb9b9;
+}
