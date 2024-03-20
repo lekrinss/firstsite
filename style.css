@@ -91,17 +91,17 @@ img{
     height: 150px;
 }
 #navigation{
-    background: #85D6E5;
+    background: #2ba1e6;
     height: 40px;
 }
 #content{
-    background: #85D6E5;
+    background: #27b5ce;
     float: left;
     width: 75%;
     height: 250px;
 }
 #sidebar{
-    background: #85D6E5;
+    background: #edfcff;
     float: right;
     width: 25%;
     height: 250px;
@@ -111,6 +111,6 @@ img{
 }
 #footer{
     margin-top: 4px;
-    background: #85D6E5;
+    background: #006172;
     height: 150px;
 }
