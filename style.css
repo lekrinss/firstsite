@@ -1,0 +1,12 @@
+ul{
+    background: black;
+    list-style: square;
+}
+li {
+    background: white;
+}
+
+body{
+    background-size: cover;
+    background-attachment: fixed;
+}
